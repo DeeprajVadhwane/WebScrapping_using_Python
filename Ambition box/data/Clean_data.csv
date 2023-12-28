@@ -1,0 +1,24 @@
+year_of_started,sector,location,founder,nationalality,no_reviews,no_interviews,jobs,Average_salary,min_max,company_name,min_salary,max_salary
+1968,Public,"Mumbai, Maharashtra, India",Rajesh Gopinathan,Indian MNC,70700.0,737.0,549,992125,(₹4.0L/yr - ₹17.0L/yr),TCS,4.0,17.0
+1989,Public,"Dublin, Ireland",Fabio Benasso,Foreign MNC,44800.0,737.0,7700.0,1514625,(₹6.5L/yr - ₹24.0L/yr),Accenture,6.5,24.0
+1994,Private,"Teaneck. New Jersey., United States (USA)",Ravi Kumar S,Foreign MNC,40300.0,737.0,472,1188475,(₹5.0L/yr - ₹21.2L/yr),Cognizant,5.0,21.2
+1945,Public,"Bangalore/Bengaluru, Karnataka, India",Anis Chenchah,Indian MNC,37900.0,737.0,281,1086645,(₹4.8L/yr - ₹16.9L/yr),Wipro,4.8,16.9
+1994,Public,"Seattle,Washington, United States",Andy Jassy,Foreign MNC,20100.0,737.0,683,2885094,(₹12.0L/yr - ₹50.0L/yr),Amazon,12.0,50.0
+1911,Public,"Armonk,New York, United States",Arvind Krishna,Foreign MNC,19200.0,737.0,4000.0,1947773,(₹10.4L/yr - ₹32.0L/yr),IBM,10.4,32.0
+2007,Public,"Bangalore,Karnataka, India",Kalyan Krishnamurthy,Corporate,9400.0,978.0,433,2748846,(₹13.8L/yr - ₹40.6L/yr),Flipkart,13.8,40.6
+1981,Public,"Bengaluru/Bangalore, Karnataka, India",Salil Parekh,Indian MNC,30700.0,737.0,485,986848,(₹4.0L/yr - ₹16.5L/yr),Infosys,4.0,16.5
+1997,Public,"New York, New York, United States (USA)",Hailey Eichner,Corporate,25300.0,737.0,1100.0,1481596,(₹6.5L/yr - ₹25.0L/yr),Genpact,6.5,25.0
+1991,Public,"Noida, Uttar Pradesh,",C Vijayakumar,Indian MNC,27300.0,737.0,519,922806,(₹3.0L/yr - ₹16.2L/yr),HCLTech,3.0,16.2
+1981,Public,"Bengaluru/Bangalore, Karnataka, India",Salil Parekh,Indian MNC,30700.0,737.0,485,986848,(₹4.0L/yr - ₹16.5L/yr),Infosys,4.0,16.5
+1911,Public,"Armonk,New York, United States",Arvind Krishna,Foreign MNC,19200.0,737.0,4000.0,1947773,(₹10.4L/yr - ₹32.0L/yr),IBM,10.4,32.0
+1845,Private,"London, United Kingdom, United States (USA)",Romal Shetty,Foreign MNC,14000.0,737.0,285,1421223,(₹6.0L/yr - ₹24.0L/yr),Deloitte,6.0,24.0
+1977,Public,"Navi Mumbai, Maharashtra, India",Indian MNC,info@ril.com,13000.0,901.0,35,999106,(₹5.5L/yr - ₹16.6L/yr),Reliance Industries,5.5,16.6
+2007,Public,"Bangalore,Karnataka, India",Kalyan Krishnamurthy,Corporate,9400.0,978.0,433,2748846,(₹13.8L/yr - ₹40.6L/yr),Flipkart,13.8,40.6
+2002,Private,"London, England",Carmine Di Sibio,Foreign MNC,8500.0,737.0,1800.0,1399816,(₹5.9L/yr - ₹25.0L/yr),Ernst & Young,5.9,25.0
+1999,Public,Debashis Chatterjee,Indian MNC,8067064000,7300.0,880.0,38,1012534,(₹4.2L/yr - ₹17.8L/yr),LTIMindtree,4.2,17.8
+2007,Public,"Pune,Maharashtra, India",Sanjiv Bajaj,Corporate,7100.0,326.0,49,1135078,(₹7.0L/yr - ₹19.7L/yr),Bajaj Finserv,7.0,19.7
+1880,Partnership,"London, United Kingdom, United Kingdom (UK)",Foreign MNC,,6700.0,762.0,517,1296908,(₹6.9L/yr - ₹21.8L/yr),PwC,6.9,21.8
+2010,Public,Vijay Shekhar Sharma,Corporate,,5500.0,409.0,544,1687189,(₹9.0L/yr - ₹30.0L/yr),Paytm,9.0,30.0
+1938,Public,"Koh, Dong Jin",Foreign MNC,,6600.0,336.0,257,1822449,(₹7.8L/yr - ₹32.2L/yr),Samsung,7.8,32.2
+2000,Private,"New York, New York, United States (USA)",Douglas B. Petno,Foreign MNC,4900.0,391.0,1100.0,983512,(₹5.3L/yr - ₹16.0L/yr),JP Morgan Chase,5.3,16.0
+1987,Partnership,Foreign MNC,,,4200.0,488.0,427,1332630,(₹6.0L/yr - ₹23.4L/yr),KPMG India,6.0,23.4
