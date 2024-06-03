@@ -70,16 +70,16 @@ The root element in the document tree is the `<html>`, which can have parents, c
 #### Introduction to the requests Library:
 
 * **Requests:** Sending HTTP requests to fetch web content.
-      
-      --> pip install requests
-
+```python      
+pip install requests
+```
 #### Sending GET Requests and Handling Responses:
 
 ```python
 import requests
 url = "http://google.com"
 response = requests.get(url)
-
+```
 
 ### Handling HTTP Responses:
 
