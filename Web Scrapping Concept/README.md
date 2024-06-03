@@ -89,6 +89,7 @@ response = requests.get(url)
     300: Redirection
     400: Client Error (e.g., 404 Not Found)
     500: Server Error (e.g., 500 Internal Server Error)
+    
 ## 4.Parsing HTML with Beautiful Soup
 
 ### Learning Objectives:
