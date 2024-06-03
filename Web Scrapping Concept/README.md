@@ -1,4 +1,4 @@
-# Introduction to Web Scraping
+# Web Scraping with Python
 
 ## 1. Introduction to Web Scraping
 
@@ -67,7 +67,7 @@ The root element in the document tree is the `<html>`, which can have parents, c
 ```
 ## 3.Fetching Web Pages with Requests
 
-#### Introduction to the requests Library:
+* **Introduction to the requests Library:**
 
 * **Requests:** Sending HTTP requests to fetch web content.
 ```python      
