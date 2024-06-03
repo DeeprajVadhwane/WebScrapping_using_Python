@@ -75,7 +75,7 @@ pip install requests
 ```
 #### Sending GET Requests and Handling Responses:
 
-```python
+```bash
 import requests
 url = "http://google.com"
 response = requests.get(url)
