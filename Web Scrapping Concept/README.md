@@ -54,7 +54,8 @@ The root element in the document tree is the `<html>`, which can have parents, c
 
 - **Selectors:** Element selectors, class selectors, ID selectors.
 - **Styling:** Applying styles using CSS.
-  ```html
+
+  ```bash
   <style>
     .class-selector {
       color: blue;
@@ -63,7 +64,6 @@ The root element in the document tree is the `<html>`, which can have parents, c
       font-size: 20px;
     }
   </style>
-
 ```
 ## 3.Fetching Web Pages with Requests
 
